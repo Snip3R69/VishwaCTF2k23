@@ -12,4 +12,3 @@ and there we go, i found the whole source code with the flag.
 
 ![WhatsApp Image 2023-04-02 at 18 18 08](https://user-images.githubusercontent.com/76834257/229353786-d4adc0b6-9c26-4d13-b25a-23461155583b.jpg)
 
-Dont mind my photo i put it on my story to show people i am resuming back on ctf ofc with the flag and url blurred out @snip3r.gg ;)
